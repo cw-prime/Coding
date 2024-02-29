@@ -50,16 +50,16 @@
 <div align="center">
  :telescope: I'm currently working on **a sofware development team**
  
- 🌱 I'm currently learning **sql, Python, AWS**
-💬 Ask me about **python, bash, or sql... or anything [here](https://github.com/Aingargiola/Learning_coding.git)**
+ 🌱 I'm currently learning *CyberSecurity, Networking**
+💬 Ask me about **cyber... or anything [here](https://github.com/cw-prime/Coding-Challenges.git)**
 ⚡ Fun fact **Lego mini-figures have the largest population on Earth!**
  </div>
  
 <div align="center"> 
-  <a href="mailto:aingargiola8@gmail.com">
+  <a href="mailto:mark.alan.prime@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/anthony-ingargiola" target="_blank">
+  <a href="https://www.linkedin.com/in/mark-barton-03529b34/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   </a>
@@ -69,8 +69,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,bash,git" />
-    <img src="https://skillicons.dev/icons?i=java,python,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,bash,git,html,css,javascript,php,reactjs angular," />
+    <img src="https://skillicons.dev/icons?i=java" /><br>
 </div>
 <br/>
 <hr/>
