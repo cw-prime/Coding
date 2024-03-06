@@ -5,5 +5,8 @@
 # 2/27/24: 
 # Purpose: Print a string to the terminal
 
-echo "Hello My Name is"
-echo "que es su nombre"
+
+fname=Mark
+echo "que es su nombre $fname" 
+
+
