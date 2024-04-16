@@ -1,6 +1,6 @@
 #!/bin/bash
 
-API_KEY="282eda0eec2c9b351050d145be9d66"
+API_KEY=""
 mycity="Yakutsk"
 
 weather=$(curl -s "http://api.openweathermap.org/data/2.5/weather?q=$mycity&appid=$API_KEY&units=imperial")
