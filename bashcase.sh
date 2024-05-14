@@ -7,6 +7,7 @@ echo "how is your day going (good/bad)"
 read mood
 case $mood in
 
+
   great | amazing | awesome!)
     echo "thats good to hear your day is $mood"
     ;;
@@ -23,3 +24,4 @@ case $mood in
     echo "unknown mood"
     ;;
 esac
+
